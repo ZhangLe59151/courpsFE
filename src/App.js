@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import {Table} from 'antd';
 import './App.css';
 
